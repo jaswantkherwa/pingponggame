@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+.winningmsg{
+  color:blue;
+  background:red;
+  font-size:3em;
+  }
+  canvas{
+  border:solid 10px black; 
+  margin-left:9%; 
+  margin-top:5%;
+  box-shadow:0px 8px 5px 25px;
+  border-radius:20px;
+  }
